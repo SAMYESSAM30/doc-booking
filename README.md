@@ -1,4 +1,4 @@
-# 🩺 Doc Booking UI
+# 🩺 Doc Booking
 
 A responsive and accessible doctor appointment booking UI module built with React and TailwindCSS.
 
