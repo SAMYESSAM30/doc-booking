@@ -58,3 +58,30 @@ To run the project locally:
    ```bash
    npm run dev
    ```
+
+---
+
+## 🤖 AI Tools Usage
+
+- Scaffold and generate React components.
+- Create mock doctor data.
+- Enhance accessibility.
+- Suggest optimizations and improvements.
+
+---
+
+## ⚠️ Notes & Limitations
+
+- The app does not use a real backend — all data is mocked.
+- Basic styling and functionality included; more advanced features like form validation, date pickers, or persistent state can be added in future.
+- No authentication or user context.
+
+---
+
+## 📄 License
+
+- The app does not use a real backend — all data is mocked.
+- Basic styling and functionality included; more advanced features like form validation, date pickers, or persistent state can be added in future.
+- No authentication or user context.
+
+---
