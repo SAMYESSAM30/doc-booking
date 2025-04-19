@@ -4,7 +4,7 @@ A responsive and accessible doctor appointment booking UI module built with Reac
 
 ## 🔗 Live Demo
 
-[👉 Click here to view the live demo](#) <!-- Replace # with actual link when deployed -->
+[👉 Click here to view the live demo](https://doc-booking-gamma.vercel.app/) <!-- Replace # with actual link when deployed -->
 
 ---
 
